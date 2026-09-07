@@ -1,0 +1,5 @@
+1) lo emitio el compilador y hay que corregir el codigo anterior a la linea 9
+2) lo emitio el ensamblador y hay que definir el cuerpo de la clase Cuenta
+3) lo emitio el compilador y hay que corregir el tipo de dato que se entrega en la 6:24
+4) lo emitio el compilador y hay que hacer #include <vector>
+5) lo emitio el ensamblador y hay que poner inline doble(int)

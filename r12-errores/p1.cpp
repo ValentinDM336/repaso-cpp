@@ -1,0 +1,2 @@
+class Punto {}
+Punto origen;
