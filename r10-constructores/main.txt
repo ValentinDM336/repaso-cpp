@@ -1,0 +1,11 @@
+Sesion global
+Sesion a
+Sesion b
+Sesion c
+~Sesion b
+~Sesion c
+---medio---
+Sesion ?
+~Sesion ?
+~Sesion a
+~Sesion global
